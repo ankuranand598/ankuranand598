@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ankur Anand</h1>
+<div align=center><img src="https://en.bloggif.com/tmp/fb4f18eda3159a2e6feffb9709ba5e72/text.gif?1638507697"/></div>
 <h3 align="center">An aspiring full-stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankuranand598&label=Profile%20views&color=0e75b6&style=flat" alt="ankuranand598" /> </p>
